@@ -1,2 +1,2 @@
 # exeprojetocompleto
-automacao_relatorio_screenshoot
+Projeto de automação de testes com relatórios e screenshoot
